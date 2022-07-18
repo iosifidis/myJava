@@ -4,14 +4,15 @@
 
 1. [BlackJack](https://github.com/iosifidis/UoM-Applied-Informatics/tree/main/s3/object_oriented_programming/assignments/1.Blackjack)  
 2. [CrimeNet](https://github.com/iosifidis/UoM-Applied-Informatics/tree/main/s3/object_oriented_programming/assignments/2.CrimeNet)  
-3. [CrimeNet-Pamakbook](https://github.com/iosifidis/UoM-Applied-Informatics/tree/main/s3/object_oriented_programming/assignments/3.CrineNet-Pamakbook): Προσθήκη γραφικής διεπαφής.  
-4. [CrimeNet-Graph](https://github.com/iosifidis/UoM-Applied-Informatics/tree/main/s3/object_oriented_programming/assignments/4.CrimeNet-Graph): Προσθήκη δημιουργίας γράφου με την χρήση των βιβλιοθηκών [jung](https://sourceforge.net/projects/jung/files/). Επειδή η τεκμηρίωση έχει θέμα, δείτε [εδώ](https://jgrapht.org/javadoc-1.4.0/org/jgrapht/GraphMetrics.html#%3Cinit%3E()).  
+3. [CrimeNet-Pamakbook](https://github.com/iosifidis/UoM-Applied-Informatics/tree/main/s3/object_oriented_programming/assignments/3.CrineNet-Pamakbook): Add GUI.  
+4. [CrimeNet-Graph](https://github.com/iosifidis/UoM-Applied-Informatics/tree/main/s3/object_oriented_programming/assignments/4.CrimeNet-Graph): Added graph using the libraries [jung](https://sourceforge.net/projects/jung/files/). The documentation page has an issue, so see [here](https://jgrapht.org/javadoc-1.4.0/org/jgrapht/GraphMetrics.html#%3Cinit%3E()).  
 
-Here is the index of my JAVA projects
+## JAVA programs. Those helped to learn JAVA
 
-* [Products_(notOO)](https://github.com/iosifidis/UoM-Applied-Informatics/tree/main/s3/object_oriented_programming/lectures/Products_(notOO)): Πρόγραμμα που υπολογίζει ποιο είναι το καλύτερο προϊόν. Παράδειγμα ως διαδικαστικός προγραμματισμός.  
-* [ProductsWithClasses](https://github.com/iosifidis/UoM-Applied-Informatics/tree/main/s3/object_oriented_programming/lectures/ProductsWithClasses): Το ίδιο πρόγραμμα με το 1. Εδώ δημιουργείται μια κλάση Product και μεταφέρονται-μετατρέπονται σε μεθόδους, όλες οι λειτουργίες που βρισκόταν μέσα στην main.  
-* [University_2_11](https://github.com/iosifidis/UoM-Applied-Informatics/tree/main/s3/object_oriented_programming/lectures/University_2_11): Πρόγραμμα φοιτητών. Χρήση πολλών constructors και χρήση μεθόδων set (θέτω τιμή) και get (κάνω ανάγνωση τιμής).  
+
+* [Products_(notOO)](https://github.com/iosifidis/UoM-Applied-Informatics/tree/main/s3/object_oriented_programming/lectures/Products_(notOO)): Program that calculates which is the best product. Example as procedural programming.  
+* [ProductsWithClasses](https://github.com/iosifidis/UoM-Applied-Informatics/tree/main/s3/object_oriented_programming/lectures/ProductsWithClasses): The same program as before. Here a class Product is created and all functions that were inside main are transferred and converted into methods.   
+* [University_2_11](https://github.com/iosifidis/UoM-Applied-Informatics/tree/main/s3/object_oriented_programming/lectures/University_2_11): Student example. Here we use several constructors and use of set (set a value) and get (read a value) methods.  
 * [University_9_11](https://github.com/iosifidis/UoM-Applied-Informatics/tree/main/s3/object_oriented_programming/lectures/University_9_11): Πρόγραμμα με φοιτητές. Καταχώρηση σε πίνακα με μαθήματα και εκτύπωση πίνακα με φοιτητές που έχουν εγγραφεί στο μάθημα. 
 * [University_9_11_v2](https://github.com/iosifidis/UoM-Applied-Informatics/tree/main/s3/object_oriented_programming/lectures/University_9_11_v2): Εργασία με ArrayList με φοιτητές, μαθήματα, αίθουσες και γραμματεία. Δημιουργία φοιτητών, μαθημάτων και αιθουσών. Ορισμός αιθουσών για κάθε μάθημα. Εγγραφή φοιτητών σε μαθήματα και στην συνέχεια εκτύπωση λεπτομερειών των μαθημάτων. Δημιουργία αντικειμένου γραμματείας και καταχώρηση μαθημάτων. Εκτύπωση πληροφοριών γραμματείας.   
 * [University_16_11](https://github.com/iosifidis/UoM-Applied-Informatics/tree/main/s3/object_oriented_programming/lectures/University_16_11): Αρχή της υποκατάστασης και πολυμπορφισμός.  
