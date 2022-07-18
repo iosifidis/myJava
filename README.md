@@ -1,5 +1,12 @@
 # My JAVA programs
 
+## University assignments  
+
+1. [BlackJack]([./1.Blackjack](https://github.com/iosifidis/UoM-Applied-Informatics/tree/main/s3/object_oriented_programming/assignments/1.Blackjack))  
+2. [CrimeNet]([./2.CrimeNet](https://github.com/iosifidis/UoM-Applied-Informatics/tree/main/s3/object_oriented_programming/assignments/2.CrimeNet))  
+3. [CrimeNet-Pamakbook](.[/3.CrineNet-Pamakbook](https://github.com/iosifidis/UoM-Applied-Informatics/tree/main/s3/object_oriented_programming/assignments/3.CrineNet-Pamakbook)): Προσθήκη γραφικής διεπαφής.  
+4. [CrimeNet-Graph]([./4.CrimeNet-Graph](https://github.com/iosifidis/UoM-Applied-Informatics/tree/main/s3/object_oriented_programming/assignments/4.CrimeNet-Graph)): Προσθήκη δημιουργίας γράφου με την χρήση των βιβλιοθηκών [jung](https://sourceforge.net/projects/jung/files/). Επειδή η τεκμηρίωση έχει θέμα, δείτε [εδώ](https://jgrapht.org/javadoc-1.4.0/org/jgrapht/GraphMetrics.html#%3Cinit%3E()).  
+
 Here is the index of my JAVA projects
 
 * [Products_(notOO)](https://github.com/iosifidis/UoM-Applied-Informatics/tree/main/s3/object_oriented_programming/lectures/Products_(notOO)): Πρόγραμμα που υπολογίζει ποιο είναι το καλύτερο προϊόν. Παράδειγμα ως διαδικαστικός προγραμματισμός.  
@@ -42,7 +49,3 @@ Here is the index of my JAVA projects
 * [BinaryFiles_v6](https://github.com/iosifidis/UoM-Applied-Informatics/tree/main/s3/object_oriented_programming/lectures/BinaryFiles_v6): Τρόπος ανάγνωσης μιας ArrayList που έχει αποθηκευτεί με πληροφορίες αντικειμένων που είναι συνδεδεμένα με αντικείμενα (υπάλληλοι με αυτοκίνητα), σε ένα δυαδικό αρχείο.  
 * [Hotels](https://github.com/iosifidis/UoM-Applied-Informatics/tree/main/s3/object_oriented_programming/lectures/Hotels): Παράδειγμα εξετάσεων με ξενοδοχεία.  
 
-
-## ΟΛΑ ΤΑ ΠΡΟΓΡΑΜΜΑΤΑ ΜΕ ΣΕΙΡΑ ΕΚΜΑΘΗΣΗΣ
-
-Το αρχείο [object_oriented_2021.zip](./object_oriented_2021.zip) περιέχει όλα τα προγράμματα με την σειρά. Μπορείτε να το αποσυμπιέσετε στον φάκελο workspace του eclipse και να κάνετε Import όλα τα προγράμματα.
