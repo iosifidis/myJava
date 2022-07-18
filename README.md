@@ -2,10 +2,10 @@
 
 ## University assignments  
 
-1. [BlackJack]([./1.Blackjack](https://github.com/iosifidis/UoM-Applied-Informatics/tree/main/s3/object_oriented_programming/assignments/1.Blackjack))  
-2. [CrimeNet]([./2.CrimeNet](https://github.com/iosifidis/UoM-Applied-Informatics/tree/main/s3/object_oriented_programming/assignments/2.CrimeNet))  
-3. [CrimeNet-Pamakbook](.[/3.CrineNet-Pamakbook](https://github.com/iosifidis/UoM-Applied-Informatics/tree/main/s3/object_oriented_programming/assignments/3.CrineNet-Pamakbook)): Προσθήκη γραφικής διεπαφής.  
-4. [CrimeNet-Graph]([./4.CrimeNet-Graph](https://github.com/iosifidis/UoM-Applied-Informatics/tree/main/s3/object_oriented_programming/assignments/4.CrimeNet-Graph)): Προσθήκη δημιουργίας γράφου με την χρήση των βιβλιοθηκών [jung](https://sourceforge.net/projects/jung/files/). Επειδή η τεκμηρίωση έχει θέμα, δείτε [εδώ](https://jgrapht.org/javadoc-1.4.0/org/jgrapht/GraphMetrics.html#%3Cinit%3E()).  
+1. [BlackJack](https://github.com/iosifidis/UoM-Applied-Informatics/tree/main/s3/object_oriented_programming/assignments/1.Blackjack)  
+2. [CrimeNet](https://github.com/iosifidis/UoM-Applied-Informatics/tree/main/s3/object_oriented_programming/assignments/2.CrimeNet)  
+3. [CrimeNet-Pamakbook](https://github.com/iosifidis/UoM-Applied-Informatics/tree/main/s3/object_oriented_programming/assignments/3.CrineNet-Pamakbook): Προσθήκη γραφικής διεπαφής.  
+4. [CrimeNet-Graph](https://github.com/iosifidis/UoM-Applied-Informatics/tree/main/s3/object_oriented_programming/assignments/4.CrimeNet-Graph): Προσθήκη δημιουργίας γράφου με την χρήση των βιβλιοθηκών [jung](https://sourceforge.net/projects/jung/files/). Επειδή η τεκμηρίωση έχει θέμα, δείτε [εδώ](https://jgrapht.org/javadoc-1.4.0/org/jgrapht/GraphMetrics.html#%3Cinit%3E()).  
 
 Here is the index of my JAVA projects
 
